@@ -1,5 +1,5 @@
-user-service is creating user, showing user detail and input tasks
-task-service is showing the tasks of specific user
+user-service is creating user, showing user detail and input tasks, it will be written in javascript
+task-service is showing the tasks of specific user, it will be written in spring-boot
 only one database will be used for now
 
 -----------
