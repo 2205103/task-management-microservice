@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "pool": "^0.4.1"
+  }
+}
